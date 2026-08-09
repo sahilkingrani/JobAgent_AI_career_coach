@@ -90,7 +90,8 @@ Most job platforms are passive listing aggregators. JobAgent is an active coach 
 ## Screenshots
 
 
-<img width="374" height="479" alt="image" src="https://github.com/user-attachments/assets/48e33aa4-3623-4e1d-a2f8-afa33b3ad73d" />
+<img width="374" height="479" alt="image" src="https://github.com/user-attachments/assets/48e33aa4-3623-4e1d-a2f8-afa33b3ad73d" />      <img width="533" height="439" alt="image" src="https://github.com/user-attachments/assets/f996d838-9bb4-4d35-81d9-24e6526f2a43" />
+
 <img width="1366" height="650" alt="image" src="https://github.com/user-attachments/assets/58d783c5-9868-419c-8567-0534008e4b42" />
 <img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/d646b20c-f395-4e86-8128-59eca8c2d05c" />
 <img width="1148" height="637" alt="image" src="https://github.com/user-attachments/assets/659838f4-ca11-4ee9-976d-7850640c043c" />
